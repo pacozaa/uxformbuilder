@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Text Input",
+    "fields": {
+      "main": {
+        "label": "Text Input",
+        "type": "input",
+        "value": "textinput"
+      },
+      "gridLabel": {
+        "label": "label Size",
+        "type": "input",
+        "value": 4
+      },
+      "gridInput": {
+        "label": "input size",
+        "type": "input",
+        "value": 5
+      },
+      "obj": {
+        "label": "attribute Name",
+        "type": "input",
+        "value": "obj"
+      },
+      "field": {
+        "label": "field Name",
+        "type": "input",
+        "value": "textinput"
+      },
+      "required": {
+        "label": "Required",
+        "type": "checkbox",
+        "value": false
+      }
+    }
+  },
+  {
+    "title": "Calendar",
+    "fields": {
+      "main": {
+        "label": "variable",
+        "type": "input",
+        "value": "calendar"
+      },
+      "gridLabel": {
+        "label": "label Size",
+        "type": "input",
+        "value": 4
+      },
+      "gridInput": {
+        "label": "input size",
+        "type": "input",
+        "value": 5
+      },
+      "obj": {
+        "label": "attribute Name",
+        "type": "input",
+        "value": "obj"
+      },
+      "field": {
+        "label": "field Name",
+        "type": "input",
+        "value": "calendar"
+      },
+      "required": {
+        "label": "Required",
+        "type": "checkbox",
+        "value": false
+      }
+    }
+  },
+  {
+    "title": "Call Dialog",
+    "fields": {
+      "main": {
+        "label": "variable",
+        "type": "input",
+        "value": "calldialog"
+      },
+      "gridLabel": {
+        "label": "label Size",
+        "type": "input",
+        "value": 4
+      },
+      "gridInput": {
+        "label": "input size",
+        "type": "input",
+        "value": 5
+      },
+      "obj": {
+        "label": "attribute Name",
+        "type": "input",
+        "value": "obj"
+      },
+      "field": {
+        "label": "field Name",
+        "type": "input",
+        "value": "calldialog"
+      },
+      "required": {
+        "label": "Required",
+        "type": "checkbox",
+        "value": false
+      }
+    }
+  },
+  {
+    "title": "File Input",
+    "fields": {
+      "main": {
+        "label": "File Input",
+        "type": "input",
+        "value": "fileinput"
+      },
+      "gridLabel": {
+        "label": "label Size",
+        "type": "input",
+        "value": 4
+      },
+      "gridInput": {
+        "label": "input size",
+        "type": "input",
+        "value": 5
+      },
+      "obj": {
+        "label": "attribute Name",
+        "type": "input",
+        "value": "obj"
+      },
+      "field": {
+        "label": "field Name",
+        "type": "input",
+        "value": "fileinput"
+      },
+      "required": {
+        "label": "Required",
+        "type": "checkbox",
+        "value": false
+      }
+    }
+  },
+  {
+    "title": "Text Area",
+    "fields": {
+      "main": {
+        "label": "variable",
+        "type": "input",
+        "value": "textarea"
+      },
+      "row": {
+        "label": "row",
+        "type": "input",
+        "value": 2
+      },
+      "gridLabel": {
+        "label": "label Size",
+        "type": "input",
+        "value": 4
+      },
+      "gridInput": {
+        "label": "input size",
+        "type": "input",
+        "value": 5
+      },
+      "obj": {
+        "label": "attribute Name",
+        "type": "input",
+        "value": "obj"
+      },
+      "field": {
+        "label": "field Name",
+        "type": "input",
+        "value": "textarea"
+      },
+      "required": {
+        "label": "Required",
+        "type": "checkbox",
+        "value": false
+      }
+    }
+  }
+]

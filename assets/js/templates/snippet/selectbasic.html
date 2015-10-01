@@ -1,0 +1,8 @@
+${io}
+  <label class="control-label col-xs-12 col-sm-<%- gridLabel%> <% if(required) {%> required <% } %>" for="${<%- main %>[1]}">${<%- main %>[0]}</label>
+  <div class="col-xs-12 col-sm-<%- gridInput%>" id="${<%- main %>[1]}Div">
+    <select ${<%- main %>[2]} ${inClassSelect}><% _.each(options, function(option) { %>
+      <option><%- option %></option><% }); %>
+    </select>
+  </div>
+${oi}

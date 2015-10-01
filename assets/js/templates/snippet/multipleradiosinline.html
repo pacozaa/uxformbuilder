@@ -1,0 +1,10 @@
+${io}
+  <label class="control-label col-xs-12 col-sm-<%- gridLabel%>" for="${<%- main %>[1]}">${<%- main %>[0]}</label>
+  <% _.each(radios, function(radio, i){ %>    
+    <div class="col-xs-12 col-sm-<%- gridInput%>">
+    	<label class="radio-inline">
+    	<input type="radio" <%if (i < 1) { %> checked="checked" <% } %> ${<%- main %>[2]}><%- radio %>
+    	</label>
+    </div>
+    <% }); %>
+${oi}
